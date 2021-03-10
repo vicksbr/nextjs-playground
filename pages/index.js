@@ -10,6 +10,8 @@ const Home = () => {
       <Link href="/ssr_example">/ssr example</Link>
       <BreakLine number={2} />
       <Link href="/fetching_example">/fetching example</Link>
+      <BreakLine number={2} />
+      <Link href="/render_example">/render_example</Link>
     </div>
   );
 };
